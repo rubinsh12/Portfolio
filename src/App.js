@@ -24,4 +24,4 @@ function App() {
 
 export default App;
 
-ru
+sushilkapalilocal
